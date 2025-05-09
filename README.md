@@ -1,4 +1,4 @@
-# 📄 AI-Powered RAG-Based PDF Q&A System with Local LLM 🚀
+# 📄 RAG-Based PDF Q&A System 🚀
 
 ## 🛠 Problem Statement
 In today's fast-paced world, retrieving relevant information from large PDF documents can be tedious and time-consuming. Traditional keyword-based search often fails to provide context-aware answers. A more intelligent approach is needed to extract meaningful insights from documents effectively.
